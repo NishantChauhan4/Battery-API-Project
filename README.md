@@ -1,8 +1,8 @@
 # Battery-API-Project
-<br>
+<br />
 Introduction
 Battery API Project uses inbuilt browser battery API and gives information about device battery status.
-<br>
+<br />
 Features
 Device battery level display
 Charging status detection
